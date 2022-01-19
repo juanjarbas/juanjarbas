@@ -7,7 +7,7 @@
 - 📚 Desenvolvimento De Sistemas (3/3)
 - 🎶 Adoro músicas
 
-### Ferramentas e Tecnologias
+<h4 align="center"> Ferramentas e Tecnologias </h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
