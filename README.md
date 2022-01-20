@@ -9,7 +9,18 @@
 
 <hr/>
 
-<h4 align="center"> Ferramentas & Tecnologias: </h4>
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanjarbas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjarbas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <br/>
+  
+  <h4 align="center"> Ferramentas & Tecnologias: </h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -23,14 +34,7 @@
   
   
 </p>
-<br/>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanjarbas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjarbas&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <h4 align="center"> Contatos: </h4>
 
