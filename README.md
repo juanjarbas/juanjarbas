@@ -3,7 +3,7 @@
 
 <br/>
 
-- 👨‍💻 Back-End 
+- 👨‍💻 Front-End 
 - 📚 Desenvolvimento De Sistemas (3/3)
 - 🎶 Adoro músicas
 
