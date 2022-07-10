@@ -1,4 +1,9 @@
-# 💫 Sobre Mim:
+<div align="center">
+
+# Juan Jarbas | 17y 
+
+# 💫 Sobre Mim: <br>
+
 🔭 Evoluindo Como Ui Designer<br>🌱 Estou Me Aprofundado Mais Em JS<br>⚡ Adoro Músicas
 
 
@@ -14,5 +19,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juanjarbas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjarbas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=juanjarbas&icon=2&color=3)](https://visitcount.itsvg.in)
+
+</div>
