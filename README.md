@@ -1,8 +1,8 @@
 <div align="center">
 
-# Juan Jarbas | 17y 
+ Juan Jarbas | 17y 
 
-# 💫 Sobre Mim: <br>
+ 💫 Sobre Mim: <br>
 
 🔭 Evoluindo Como Ui Designer<br>🌱 Estou Me Aprofundado Mais Em JS<br>⚡ Adoro Músicas
 
