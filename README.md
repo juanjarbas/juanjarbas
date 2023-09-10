@@ -48,11 +48,13 @@ Durante minha jornada acadêmica, obtive experiência prática em várias lingua
 
 
 ### :email: Contato
+<div> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)]([https://www.linkedin.com/in/seu-nome](https://www.linkedin.com/in/juan-jarbas-))
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=social&logo=gmail)](mailto:juaanjarbas@gmail.com)
-
+  <a href="https://www.linkedin.com/in/juan-jarbas-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511956076762" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:juaanjarbas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/juanjarbass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>  
 Obrigado por visitar o meu perfil! Vamos nos conectar e explorar oportunidades juntos. :rocket:
 
   </p>
